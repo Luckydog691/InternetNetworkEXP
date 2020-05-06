@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (计算机网络实验3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  计算机网络实验4.cpp
+C:\Users\Administrator\Desktop\计算机网络实验4\计算机网络实验3\计算机网络实验4.cpp(172,19): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+C:\Users\Administrator\Desktop\计算机网络实验4\计算机网络实验3\计算机网络实验4.cpp(172,19): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\Administrator\Desktop\计算机网络实验4\计算机网络实验3\计算机网络实验4.cpp(172,19): message : 缺失的可变参数 1 为格式字符串“%s”所需
+  计算机网络实验3.vcxproj -> C:\Users\Administrator\Desktop\计算机网络实验4\Debug\计算机网络实验4.exe
